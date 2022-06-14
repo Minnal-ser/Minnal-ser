@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Minnal-ser
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning +2
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wa.me/919400900501
+div align="center">
+<a href="https://ibb.co/wQ4GK21"><img src="https://i.imgur.com/6t3hP8h.jpeg" alt="whatsapp-botto-void-init" border="0"></a>
 
-<!---
-https://i.imgur.com/6t3hP8h.jpeg
----> INSTAGRAM :minnal_44
+# **welcome to minnal ser profile 🌿**
